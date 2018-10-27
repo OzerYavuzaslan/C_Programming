@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1532294550 source:c:\users\ozer-pc\desktop\c_projects\data_structures\circular_doubly_linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"CDLL_Functions.h"
+
+1532294942 c:\users\ozer-pc\desktop\c_projects\data_structures\circular_doubly_linked_list\cdll_functions.h
+	<time.h>
+

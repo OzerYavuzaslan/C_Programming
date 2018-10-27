@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1531143414 source:c:\users\ozer-pc\desktop\c_projects\data_structures\data_structures_c_course\stack\in_pre_post_fix_expressions\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1531212716 c:\users\ozer-pc\desktop\c_projects\data_structures\data_structures_c_course\stack\in_pre_post_fix_expressions\functions.h
+	<string.h>
+	<math.h>
+
+1531143414 source:c:\users\ozer-pc\desktop\c_projects\data_structures\stack\in_pre_post_fix_expressions\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1531212716 c:\users\ozer-pc\desktop\c_projects\data_structures\stack\in_pre_post_fix_expressions\functions.h
+	<string.h>
+	<math.h>
+

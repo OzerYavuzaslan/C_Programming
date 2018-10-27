@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1530544101 source:c:\users\ozer-pc\desktop\c_projects\data_structures\data_structures_c_course\stack\parenthesis_checking_using_stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"paranthesis_functions.h"
+
+1530646012 c:\users\ozer-pc\desktop\c_projects\data_structures\data_structures_c_course\stack\parenthesis_checking_using_stack\paranthesis_functions.h
+
+1530544101 source:c:\users\ozer-pc\desktop\c_projects\data_structures\stack\parenthesis_checking_using_stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"paranthesis_functions.h"
+
+1530646012 c:\users\ozer-pc\desktop\c_projects\data_structures\stack\parenthesis_checking_using_stack\paranthesis_functions.h
+
