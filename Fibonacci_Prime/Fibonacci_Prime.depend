@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523923141 source:c:\users\ozer-pc\desktop\c_projects\fibonacci_prime\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
