@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1535866639 source:c:\users\ozer-pc\desktop\c_projects\sort_algorithms\course\populer_sort_algorithms\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Sort_Algorithms.h"
+
+1535866622 c:\users\ozer-pc\desktop\c_projects\sort_algorithms\course\populer_sort_algorithms\sort_algorithms.h
+	<sys/time.h>
+
