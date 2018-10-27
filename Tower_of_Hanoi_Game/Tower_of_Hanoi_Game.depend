@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1528772319 source:c:\users\ozer-pc\desktop\c_projects\c_course\tower_of_hanoi_game\main.c
+	<stdio.h>
+	<stdlib.h>
+
