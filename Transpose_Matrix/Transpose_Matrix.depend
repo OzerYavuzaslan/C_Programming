@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1528463645 source:c:\users\ozer-pc\desktop\c_projects\c_course\transpose_matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+
