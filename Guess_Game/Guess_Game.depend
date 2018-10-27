@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1528294479 source:c:\users\ozer-pc\desktop\c_projects\c_course\guess_game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
