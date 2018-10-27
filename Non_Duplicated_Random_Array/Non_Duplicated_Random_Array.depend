@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1528346972 source:c:\users\ozer-pc\desktop\c_projects\c_course\non_duplicated_random_array\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1528346972 source:c:\users\ozer-pc\desktop\c_projects\non_duplicated_random_array\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
