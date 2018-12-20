@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1545301286 source:c:\users\ozer-pc\desktop\c_projects\tc_identity_no\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"functions.h"
+
+1545301118 c:\users\ozer-pc\desktop\c_projects\tc_identity_no\functions.h
+
