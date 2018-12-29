@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1546055202 source:c:\users\ozer-pc\desktop\c_projects\data_structures\binary_search_tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"BSTFunctions.h"
+
+1546055647 c:\users\ozer-pc\desktop\c_projects\data_structures\binary_search_tree\bstfunctions.h
+	<time.h>
+
